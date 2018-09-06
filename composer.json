@@ -1,0 +1,35 @@
+{
+  "name": "yidas/yii2-bootstrap",
+  "description": "Bootstrap Asset Bundle extension for Yii2 framework",
+  "keywords": [
+    "yii",
+    "yii2",
+    "asset",
+    "asset bundle",
+    "bootstrap"
+  ],
+  "type": "yii2-extension",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "support": {
+    "issues": "https://github.com/yidas/yii2-bootstrap/issues",
+    "source": "https://github.com/yidas/yii2-bootstrap"
+  },
+  "authors": [
+    {
+      "name": "Nick Tsai",
+      "email": "myintaer@gmail.com",
+      "homepage": "https://github.com/yidas/"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0.6",
+    "twbs/bootstrap": "~3.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "yidas\\yii\\bootstrap\\": "src"
+    }
+  }
+}

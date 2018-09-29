@@ -46,10 +46,17 @@ The preferred install way is through [Composer](http://getcomposer.org/download/
 composer require yidas/yii2-bootstrap
 ```
 
+Version options refered Bootstrap release:
+
+```
+composer require yidas/yii2-bootstrap ~3.0
+composer require yidas/yii2-bootstrap ~4.0
+```
+
 Or you could edit `composer.json` with adding package in require section then run `composer update`.
 
 ```
-"yidas/yii2-bootstrap": "~4.0.0"
+"yidas/yii2-bootstrap": "*"
 ```
 
 ---

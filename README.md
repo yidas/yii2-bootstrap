@@ -22,6 +22,17 @@ Bootstrap Asset Bundle extension for Yii2 framework with official Composer
 
 This is the [Bootstrap](https://getbootstrap.com/) extension for [Yii framework 2.0](http://www.yiiframework.com/). It encapsulates [Bootstrap](https://github.com/twbs/bootstrap) distribution assets and thus makes using Bootstrap in Yii applications extremely easy.
 
+
+FEATURES
+--------
+
+- ***No Bower**, Composer installation only*
+
+- ***CDN & Official** assets source provided*
+
+- ***Version Controll** refers to jQuery*
+
+
 ---
 
 REQUIREMENTS
